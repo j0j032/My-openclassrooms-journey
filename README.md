@@ -8,9 +8,15 @@ English 🇬🇧
 
 #
 
+<details>
+ 
+<summary>
+ 
 ### Projet 2: Transformez un maquette en site web avec HTML & CSS
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/>
-
+  
+</summary>
+ 
 
 [Repository](https://github.com/j0j032/OC-Dev-JS-P2_Booki)
 #### Description:
@@ -22,12 +28,19 @@ English 🇬🇧
 <li>Implémenter une interface responsive</li>
 <li>Intégrer du contenu conformément à une maquette</li>
 </ul>
+ 
+  </details>
 
 #
+
+<details>
+ 
+<summary>
 
 ### Projet 3: Dynamisez une page web avec des animations CSS
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/>
 
+ </summary>
 
 [Repository](https://github.com/j0j032/OC-Dev-JS-P3_Ohmyfood)
 #### Description:
@@ -41,13 +54,20 @@ English 🇬🇧
 <li>Mettre en place une structure de navigation pour un site web</li>
 <li>Mettre en œuvre des effets CSS graphiques avancés</li>
 </ul>
+ 
+ </details>
 
 
 #
+ 
+ <details>
+ 
+<summary>
 
 ### Projet 4: Créez une landing page avec Javascript
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/>
 
+ </summary>
 
 [Repository](https://github.com/j0j032/OC-Dev-JS-P4_GameOn)
 
@@ -63,18 +83,25 @@ English 🇬🇧
 <ul>
 <li>Programmer en JavaScript</li>
 </ul>
+ 
+ </details>
 
 #
-
+ 
 ### Projet 5: 1er Test technique
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/>
 
 #
 
+<details>
+ 
+<summary>
+
 ### Projet 6: Créez un site accessible pour une plateforme de photographes
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=262627&style=For-the-badge" alt="badge sample"/>
 
-
+</summary>
+  
 [Repository](https://github.com/j0j032/OC-Dev-JS-P6_Fisheye)
 #### Description:
 
@@ -87,12 +114,19 @@ English 🇬🇧
 <li>Ecrire du code JavaScript maintenable</li>
 <li>Développer une application web modulaire avec des design patterns</li>
 </ul>
+ 
+ </details>
 
 #
+ 
+ <details>
+ 
+<summary>
 
 ### Projet 7: Développez un algorithme de recherche en JavaScript
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=262627&style=For-the-badge" alt="badge sample"/>
 
+ </summary>
 
 [Repository](https://github.com/j0j032/OC-Dev-JS-P6_Fisheye)
 #### Description:
@@ -104,6 +138,8 @@ English 🇬🇧
 <li>Développer un algorithme pour résoudre un problème</li>
 <li>Analyser un problème informatique</li>
 </ul>
+ 
+ </details>
 
 #
 
@@ -111,10 +147,15 @@ English 🇬🇧
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/>
 
 #
+ 
+ <details>
+ 
+<summary>
 
 ### Projet 9: Débuggez et testez un SaaS RH
-<img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=262627&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=fffefc&style=For-the-badge" alt="badge sample"/> 
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=fffefc&style=For-the-badge" alt="badge sample"/> 
 
+ </summary>
 
 [Repository](https://github.com/j0j032/OC-Dev-JS-P9_Billed)
 #### Description:
@@ -128,12 +169,20 @@ English 🇬🇧
 <li>Débugger une application web avec le Chrome Debugger</li>
 <li>Ecrire des tests unitaires avec JavaScript</li>
 </ul>
+  
+  </details>
 
 #
+ 
+ <details>
+ 
+<summary>
 
 ### Projet 10: Définissez les besoins pour une app de soutien scolaire
 <img src="https://img.shields.io/badge/-Figma-262627?logo=Figma&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Notion-262627?logo=Notion&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> 
 
+ </summary>
+ 
 #### Description:
 
 <ul>Définissez les besoins pour votre nouveau client, une association de soutien scolaire. Vous utiliserez les outils agiles comme les User Stories.</ul>
@@ -145,13 +194,20 @@ English 🇬🇧
 <li>Contribuer à un projet en utilisant une méthodologie agile</li>
 <li>Modéliser une solution technique pour un client</li>
 </ul>
+  
+  </details>
 
 #
+ 
+ <details>
+ 
+<summary>
 
 ### Projet 11: Développez une application Web avec React et React Router
 <img src="https://img.shields.io/badge/-React-262627?logo=React&logoColor={LOGO-COLOR}&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/>
 
-
+</summary>
+  
 [Repository](https://github.com/j0j032/OC-Dev-JS-P11_Kasa)
 #### Description:
 
@@ -163,14 +219,21 @@ English 🇬🇧
 <li>Développer les routes d'une application web avec React Router</li>
 <li>Créer des composants avec React</li>
 </ul>
+  
+  </details>
 
 #
+ 
+ <details>
+ 
+<summary>
 
 ### Projet 12: Développez un tableau de bord d'analytics avec React
 <img src="https://img.shields.io/badge/-React-262627?logo=React&logoColor={LOGO-COLOR}&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/>
 
-
-[Repository](https://github.com/j0j032/OC-Dev-JS-P11_Kasa)
+</summary>
+  
+[Repository](https://github.com/j0j032/OC-Dev-JS-P12_SportSee-Front)
 #### Description:
 
 <ul>Intégrez des graphiques et des diagrammes avec React pour SportSee, un tableau de bord d'analytics de sport. Vous utiliserez une API pour récupérer les données.</ul>
@@ -182,25 +245,62 @@ English 🇬🇧
 <li>Développer des éléments graphiques avancés à l'aide de bibliothèques JavaScript</li>
 <li>Assurer la qualité des données d'une application</li>
 </ul>
+  
+  </details>
 
 #
+ 
+ <details>
+ 
+<summary>
 
 ### Projet 13: Utilisez une API pour un compte utilisateur bancaire avec React
 <img src="https://img.shields.io/badge/-React-262627?logo=React&logoColor={LOGO-COLOR}&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/>
 
-
-[Repository](https://github.com/j0j032/OC-Dev-JS-P11_Kasa)
+</summary>
+  
+[Repository](https://github.com/j0j032/OC-Dev-REACT-P13_Argent-Bank)
 #### Description:
 
-<ul>Intégrez des graphiques et des diagrammes avec React pour SportSee, un tableau de bord d'analytics de sport. Vous utiliserez une API pour récupérer les données.</ul>
+<ul>Remede Agency a besoin de vous pour compléter le code de leur site. Vous écrirez des appels à l'API REST pour connecter le front au back et vous modéliserez une API.</ul>
 
 #### Compétences:
 <ul>
-<li>Produire de la documentation technique pour une application</li>
-<li>Interagir avec un service Web</li>
-<li>Développer des éléments graphiques avancés à l'aide de bibliothèques JavaScript</li>
-<li>Assurer la qualité des données d'une application</li>
+<li>S'authentifier à une API</li>
+<li>Modéliser une API</li>
+<li>Intéragir avec une API</li>
+<li>Implémenter un gestionnaire d'état dans une application React</li>
 </ul>
+  
+  </details>
+
+#
+ 
+ <details>
+ 
+<summary>
+
+### Projet 14: Utilisez une API pour un compte utilisateur bancaire avec React
+<img src="https://img.shields.io/badge/-React-262627?logo=React&logoColor={LOGO-COLOR}&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=262627&style=For-the-badge" alt="badge sample"/>  <img src="https://img.shields.io/badge/-Node.js-FFFEFC?logo=Node.js&logoColor=339933&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-express-262627?logo=Express&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-mongoDB-47A248?logo=MongoDB&logoColor=FFFEFC&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-React%20Query-111827?logo=React%20Query&logoColor={LOGO-COLOR}&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-React%20Hook%20Form-111827?logo=React%20Hook%20Form&logoColor={LOGO-COLOR}style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-React%20Table-111827?logo=React%20Table&logoColor=256DE3&style=For-the-badge" alt="badge sample"/> <img src="https://img.shields.io/badge/-React%20Router-262627?logo=React%20Router&logoColor={LOGO-COLOR}style=For-the-badge" alt="badge sample"/>
+
+ </summary>
+
+[Repository (front)](https://github.com/j0j032/OC-dev-REACT-P14_HRnet-front)
+ 
+[Repository (back)](https://github.com/j0j032/OC-dev-REACT-P14_HRnet-Back)
+#### Description:
+
+<ul>Participez à la conversion de HRnet vers React. Vous allez transformer la version jQuery du site en React</ul>
+
+#### Compétences:
+<ul>
+<li>Refondre une application pour réduire la dette technique</li>
+<li>Programmer en JavaScript avec la programmation fonctionnelle</li>
+<li>Déployer une application front-end</li>
+<li>Analyser la performance d'une application web</li>
+</ul>
+  
+  </details>
 
 #
 
